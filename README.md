@@ -1,6 +1,20 @@
 # Anime Wave
 Anime Wave is a feature-rich app for streaming anime content.
 It provides a wide selection of anime series, movies, and OVAs from various genres, allowing users to enjoy their favorite shows on-demand.
+
+
+## Sign in & Sign Out Page
+
+<p align="center">
+  <img alt="Sign in" src="https://github.com/muhammedalblaout/anime_wave/blob/master/screenshots/Screenshot_2024-04-29-21-50-27-051_com.example.anime_wave.jpg" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Sign out" src="https://github.com/muhammedalblaout/anime_wave/blob/master/screenshots/Screenshot_2024-04-29-21-50-59-919_com.example.anime_wave.jpg" width="45%">
+</p>
+
+
+
+
+
 ## Main Page
 
 <p align="center">
