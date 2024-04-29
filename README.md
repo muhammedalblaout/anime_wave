@@ -10,12 +10,20 @@ It provides a wide selection of anime series, movies, and OVAs from various genr
 </p>
 
 
-## Genres list & My Favorite Page
+## Genres Page & My Favorite Page
 
 <p align="center">
-  <img alt="Main Page" src="https://github.com/muhammedalblaout/anime_wave/blob/master/screenshots/Screenshot_2024-04-29-21-03-11-772_com.example.anime_wave.jpg" width="45%">
+  <img alt="Gentres Page" src="https://github.com/muhammedalblaout/anime_wave/blob/master/screenshots/Screenshot_2024-04-29-21-03-11-772_com.example.anime_wave.jpg" width="45%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="promo youtube" src="https://github.com/muhammedalblaout/anime_wave/blob/master/screenshots/Screenshot_2024-04-29-21-03-16-289_com.example.anime_wave.jpg" width="45%">
+  <img alt="My Favorite" src="https://github.com/muhammedalblaout/anime_wave/blob/master/screenshots/Screenshot_2024-04-29-21-03-16-289_com.example.anime_wave.jpg" width="45%">
+</p>
+
+## Anime Info Page
+
+<p align="center">
+  <img alt="Info" src="https://github.com/muhammedalblaout/anime_wave/blob/master/screenshots/Screenshot_2024-04-29-21-04-21-973_com.example.anime_wave.jpg" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Servers" src="https://github.com/muhammedalblaout/anime_wave/blob/master/screenshots/Screenshot_2024-04-29-21-04-34-213_com.example.anime_wave.jpg" width="45%">
 </p>
 
 
