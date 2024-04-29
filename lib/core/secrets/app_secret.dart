@@ -1,0 +1,5 @@
+class AppSecret{
+  static String ProjectURL="https://qrxjscadjqdvkuhytnkr.supabase.co";
+  static String AnonKey="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InFyeGpzY2FkanFkdmt1aHl0bmtyIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MTM4MTc0MTEsImV4cCI6MjAyOTM5MzQxMX0.d4hXXFek6-7pzdDhE8_cyyR6rIin7aoHc9zCaoBpB5Y";
+
+}
