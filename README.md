@@ -26,6 +26,14 @@ It provides a wide selection of anime series, movies, and OVAs from various genr
   <img alt="Servers" src="https://github.com/muhammedalblaout/anime_wave/blob/master/screenshots/Screenshot_2024-04-29-21-04-34-213_com.example.anime_wave.jpg" width="45%">
 </p>
 
+## Profile Page Page
+
+<p align="center">
+  <img alt="Profile" src="https://github.com/muhammedalblaout/anime_wave/blob/master/screenshots/Screenshot_2024-04-29-21-03-19-697_com.example.anime_wave.jpg" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Edit" src="https://github.com/muhammedalblaout/anime_wave/blob/master/screenshots/Screenshot_2024-04-29-21-03-23-855_com.example.anime_wave.jpg" width="45%">
+</p>
+
 
 
 
