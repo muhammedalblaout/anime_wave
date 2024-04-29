@@ -1,5 +1,5 @@
 
-import 'package:anime_wave/core/commen/consts.dart';
+import 'package:anime_wave/core/commen/constant.dart';
 import 'package:supabase_flutter/supabase_flutter.dart';
 
 import '../../../../core/error/exceptions.dart';

@@ -1,6 +1,6 @@
 import 'dart:convert';
 
-import 'package:anime_wave/core/commen/consts.dart';
+import 'package:anime_wave/core/commen/constant.dart';
 import 'package:anime_wave/features/anime/data/models/category/anime_category_page_model.dart';
 import 'package:anime_wave/features/anime/data/models/category/category_model.dart';
 import 'package:anime_wave/features/anime/data/models/promo/promo_model.dart';

@@ -2,7 +2,7 @@ import 'package:anime_wave/features/animeInfo/data/models/anime_info_model.dart'
 import 'package:anime_wave/features/animeInfo/data/models/watch_episode_model.dart';
 import 'package:dio/dio.dart';
 
-import '../../../../core/commen/consts.dart';
+import '../../../../core/commen/constant.dart';
 import '../../../../core/error/exceptions.dart';
 
 abstract interface class AnimeInfoRemoteDataSources{

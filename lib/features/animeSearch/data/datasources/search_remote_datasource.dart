@@ -1,6 +1,6 @@
 import 'package:dio/dio.dart';
 
-import '../../../../core/commen/consts.dart';
+import '../../../../core/commen/constant.dart';
 import '../../../../core/error/exceptions.dart';
 import '../models/anime_search_page_model.dart';
 
