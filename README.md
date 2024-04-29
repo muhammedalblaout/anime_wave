@@ -51,14 +51,20 @@ It provides a wide selection of anime series, movies, and OVAs from various genr
 
 
 
-
-
-
-
-
 ## Video Player
 
 ![ScreenShot](https://github.com/muhammedalblaout/anime_wave/blob/master/screenshots/Screenshot_2024-04-29-21-04-49-078_com.example.anime_wave.jpg)
 ![ScreenShot](https://github.com/muhammedalblaout/anime_wave/blob/master/screenshots/Screenshot_2024-04-29-21-04-53-494_com.example.anime_wave.jpg)
+
+## Features
+Anime Wave offers the following features:
+- Browse and search for movies and series
+- View detailed information about movies and series
+- Stream and watch movies and series directly in the app
+- Mark movies and series as favorites for easy access
+
+
+
+
 
 
