@@ -1,5 +1,4 @@
 import 'package:anime_wave/features/auth/presentation/pages/signup_page.dart';
-import 'package:anime_wave/features/navigation/presentation/page/navigation_page.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
