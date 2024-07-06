@@ -10,6 +10,12 @@ It provides a wide selection of anime series, movies, and OVAs from various genr
 
 </div>
 
+<div align="center">
+<img  width="40%" src="screenshots/top1.jpeg">
+
+<img  width="40%" src="screenshots/top2.jpeg">
+
+</div>
 
 ## Sign in & Sign Up Page
 
