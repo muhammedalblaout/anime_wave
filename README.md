@@ -51,11 +51,16 @@ It provides a wide selection of anime series, movies, and OVAs from various genr
 
 ## Genres Page & My Favorite Page
 
-<p align="center">
-  <img alt="Gentres Page" src="https://github.com/muhammedalblaout/anime_wave/blob/master/screenshots/Screenshot_2024-04-29-21-03-11-772_com.example.anime_wave.jpg" width="45%">
-&nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="My Favorite" src="https://github.com/muhammedalblaout/anime_wave/blob/master/screenshots/Screenshot_2024-04-29-21-03-16-289_com.example.anime_wave.jpg" width="45%">
-</p>
+<div align="center">
+<img  width="40%" src="screenshots/genres.jpeg">
+
+<img  width="40%" src="screenshots/favorite.jpeg">
+
+</div>
+
+## :dart: Features
+- Genre Browse: The app provides users with a list of available genres to browse. Users can select a genre of their choice to explore anime titles that belong to that genre, allowing for a personalized browsing experience.
+- Favorites Page: The app features a dedicated page where users can view all their favorite anime shows. This page allows users to easily access and manage their preferred shows,The user's favorite shows are stored in a Supabase database, ensuring that their preferences are saved and can be accessed across multiple devices.
 
 ## Anime Info Page
 
