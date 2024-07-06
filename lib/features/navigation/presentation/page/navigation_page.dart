@@ -128,6 +128,5 @@ class _NavigatorPageState extends State<NavigatorPage> with AutomaticKeepAliveCl
   );
 
   @override
-  // TODO: implement wantKeepAlive
   bool get wantKeepAlive => true;
 }

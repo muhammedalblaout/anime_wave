@@ -1,6 +1,14 @@
-# Anime Wave
+
+<div align="center">
+
+  <img src="screenshots/logo.png" alt="logo" width="200" height="auto" />
+  <h1>Anime Wave</h1>
+<p>
 Anime Wave is a feature-rich app for streaming anime content.
 It provides a wide selection of anime series, movies, and OVAs from various genres, allowing users to enjoy their favorite shows on-demand.
+  </p>
+
+</div>
 
 
 ## Sign in & Sign Up Page
