@@ -64,11 +64,16 @@ It provides a wide selection of anime series, movies, and OVAs from various genr
 
 ## Anime Info Page
 
-<p align="center">
-  <img alt="Info" src="https://github.com/muhammedalblaout/anime_wave/blob/master/screenshots/Screenshot_2024-04-29-21-04-21-973_com.example.anime_wave.jpg" width="45%">
-&nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Servers" src="https://github.com/muhammedalblaout/anime_wave/blob/master/screenshots/Screenshot_2024-04-29-21-04-34-213_com.example.anime_wave.jpg" width="45%">
-</p>
+<div align="center">
+<img  width="40%" src="screenshots/info1.jpeg">
+
+<img  width="40%" src="screenshots/info2.jpeg">
+
+</div>
+
+## :dart: Features
+- Anime Info and Description: The app provides detailed information and descriptions for each anime.
+- Anime Episodes and Quality: The app allows users to watch anime episodes within the platform. Users can choose from a list of available episodes for each anime and select their preferred video quality.
 
 ## Profile Page Page
 
