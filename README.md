@@ -46,7 +46,8 @@ It provides a wide selection of anime series, movies, and OVAs from various genr
 
 ## :dart: Features
 - Episodes Showcase: The app includes a dedicated section that showcases the newest anime episodes and top airing episodes.
-- Promos Section: The app features a dedicated section that showcases promos for new anime episodes or upcoming shows
+- Promos Section: The app features a dedicated section that showcases promos for new anime episodes or upcoming shows.
+- Anime Search: The app allows users to search for anime by their titles, providing relevant search results for quick and easy access to specific shows.
 
 
 ## Genres Page & My Favorite Page
@@ -77,15 +78,15 @@ It provides a wide selection of anime series, movies, and OVAs from various genr
 
 ## Profile Page Page
 
-<p align="center">
-  <img alt="Profile" src="https://github.com/muhammedalblaout/anime_wave/blob/master/screenshots/Screenshot_2024-04-29-21-03-19-697_com.example.anime_wave.jpg" width="45%">
-&nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Edit" src="https://github.com/muhammedalblaout/anime_wave/blob/master/screenshots/Screenshot_2024-04-29-21-03-23-855_com.example.anime_wave.jpg" width="45%">
-</p>
+<div align="center">
+<img  width="40%" src="screenshots/profile1.jpeg">
 
+<img  width="40%" src="screenshots/profile2.jpeg">
 
+</div>
 
-
+## :dart: Features
+- User Profile and Account Management: The app allows users to view and update their account information, including personal details and avatar customization.
 ## Video Player
 
 ![ScreenShot](https://github.com/muhammedalblaout/anime_wave/blob/master/screenshots/Screenshot_2024-04-29-21-04-49-078_com.example.anime_wave.jpg)
