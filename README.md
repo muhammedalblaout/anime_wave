@@ -75,6 +75,7 @@ It provides a wide selection of anime series, movies, and OVAs from various genr
 ## :dart: Features
 - Anime Info and Description: The app provides detailed information and descriptions for each anime.
 - Anime Episodes and Quality: The app allows users to watch anime episodes within the platform. Users can choose from a list of available episodes for each anime and select their preferred video quality.
+- Add to Favorites: Users can easily add anime shows to their favorites list with a single click, allowing for quick access and personalized viewing options.
 
 ## Profile Page Page
 
@@ -87,20 +88,17 @@ It provides a wide selection of anime series, movies, and OVAs from various genr
 
 ## :dart: Features
 - User Profile and Account Management: The app allows users to view and update their account information, including personal details and avatar customization.
+
 ## Video Player
 
-![ScreenShot](https://github.com/muhammedalblaout/anime_wave/blob/master/screenshots/Screenshot_2024-04-29-21-04-49-078_com.example.anime_wave.jpg)
-![ScreenShot](https://github.com/muhammedalblaout/anime_wave/blob/master/screenshots/Screenshot_2024-04-29-21-04-53-494_com.example.anime_wave.jpg)
+<div align="center">
+<img  width="40%" src="screenshots/video_player1.jpeg">
 
-## Features
-Anime Wave offers the following features:
-- Browse and search for movies and series
-- View detailed information about movies and series
-- Stream and watch movies and series directly in the app
-- Mark movies and series as favorites for easy access
+<img  width="40%" src="screenshots/video_player2.jpeg">
 
+</div>
 
-
-
+## :dart: Features
+- Video Player: The app features a built-in video player that allows users to watch selected anime episodes seamlessly within the app.
 
 
