@@ -17,25 +17,36 @@ It provides a wide selection of anime series, movies, and OVAs from various genr
 
 </div>
 
+# :star2: Screenshots
+
 ## Sign in & Sign Up Page
 
-<p align="center">
-  <img alt="Sign in" src="https://github.com/muhammedalblaout/anime_wave/blob/master/screenshots/Screenshot_2024-04-29-21-50-27-051_com.example.anime_wave.jpg" width="45%">
-&nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Sign Up" src="https://github.com/muhammedalblaout/anime_wave/blob/master/screenshots/Screenshot_2024-04-29-21-50-59-919_com.example.anime_wave.jpg" width="45%">
-</p>
+<div align="center">
+<img  width="40%" src="screenshots/auth1.jpeg">
+
+<img  width="40%" src="screenshots/auth2.jpeg">
+
+</div>
+
+## :dart: Features
+- Authentication: The app utilizes Supabase Authentication to provide a secure and user-friendly sign-up and sign-in experience.
 
 
 
 
+## Home Page
 
-## Main Page
+<div align="center">
+<img  width="40%" src="screenshots/home1.jpeg">
 
-<p align="center">
-  <img alt="Main Page" src="https://github.com/muhammedalblaout/anime_wave/blob/master/screenshots/Screenshot_2024-04-29-21-03-07-584_com.example.anime_wave.jpg" width="45%">
-&nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="promo youtube" src="https://github.com/muhammedalblaout/anime_wave/blob/master/screenshots/Screenshot_2024-04-29-21-03-56-579_com.example.anime_wave.jpg" width="45%">
-</p>
+<img  width="40%" src="screenshots/home2.jpeg">
+
+</div>
+
+
+## :dart: Features
+- Episodes Showcase: The app includes a dedicated section that showcases the newest anime episodes and top airing episodes.
+- Promos Section: The app features a dedicated section that showcases promos for new anime episodes or upcoming shows
 
 
 ## Genres Page & My Favorite Page
